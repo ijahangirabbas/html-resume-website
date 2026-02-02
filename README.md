@@ -1,5 +1,5 @@
 # HTML Resume Project
-A single-page resume built strictly using semantic HTML.
+A single page resume built strictly using semantic HTML.
 
 ## Live Demo
 https://ijahangirabbas.github.io/html-resume-website/
