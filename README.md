@@ -1,1 +1,13 @@
-# html-resume-website
+# HTML Resume Project
+A single-page resume built strictly using semantic HTML.
+
+## Live Demo
+[Paste your GitHub Pages link here]
+
+## Features
+- Used `<table>` for structured Experience and Education sections.
+- Semantic tags like `<header>`, `<section>`, and `<footer>`.
+- No CSS used, relying on HTML attributes for layout.
+
+## Setup
+Just open `index.html` in any browser to view the local version.
