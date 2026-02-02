@@ -2,7 +2,7 @@
 A single-page resume built strictly using semantic HTML.
 
 ## Live Demo
-[Paste your GitHub Pages link here]
+https://ijahangirabbas.github.io/html-resume-website/
 
 ## Features
 - Used `<table>` for structured Experience and Education sections.
